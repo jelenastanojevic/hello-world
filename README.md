@@ -1,2 +1,4 @@
 # hello-world
-learning ti use GIT
+learning to use GIT
+
+here is the first change for commit
